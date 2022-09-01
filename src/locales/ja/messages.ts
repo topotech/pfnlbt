@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages={"test.title":"タイトル"};
